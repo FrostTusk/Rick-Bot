@@ -1,1 +1,6 @@
 token.txt
+.settings/
+bin/
+.classpath
+.project
+
